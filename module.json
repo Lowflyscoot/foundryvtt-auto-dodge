@@ -1,0 +1,27 @@
+{
+    "id": "auto-dodge",
+    "title": "Auto dodge",
+    "description": "Automatically rolling dodge of the target",
+    "authors": [
+        {
+            "name": "LScoot"
+        }
+    ],
+    "esmodules": [
+        "module/auto-dodge.js"
+    ],
+    "compatibility": {
+        "minimum": "13",
+        "verified": "13"
+    },
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "url": "https://github.com/Lowflyscoot/foundryvtt-auto-dodge",
+    "manifest": "https://raw.githubusercontent.com/Lowflyscoot/foundryvtt-auto-dodge/main/module.json",
+    "version": "0.0.1"
+}
