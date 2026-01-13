@@ -22,6 +22,6 @@
         }
     ],
     "url": "https://github.com/Lowflyscoot/foundryvtt-auto-dodge",
-    "manifest": "https://raw.githubusercontent.com/Lowflyscoot/foundryvtt-auto-dodge/main/module.json",
+    "manifest": "https://raw.githubusercontent.com/Lowflyscoot/foundryvtt-auto-dodge/master/module.json",
     "version": "0.0.1"
 }
